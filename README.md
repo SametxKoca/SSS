@@ -1,2 +1,4 @@
 # Sıkça Sorulan Sorular Modülü
-403 hatası nedeniyle bitirilemedi
+Xampp ile 403 hatası verdi
+AppServ ile birden fazla hata verdi
+Proje ayağa kaldırılamadı
